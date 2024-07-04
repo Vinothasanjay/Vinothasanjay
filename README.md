@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://dribbble.com/shots/14584578-Office-Workers-Lottie-Animations/attachments/6275302?mode=media"  />
-</div>
+
 <h1 align="center">Hi 👋, I'm Vinotha S</h1>
 <h3 align="center">"ML, Cybersecurity, Ethical Hacking, and Frontend Enthusiast"</h3>
 
