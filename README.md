@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="200" src="https://i.gifer.com/JXA0.gif"  />
+</div>
 
 <h1 align="center">Hi 👋, I'm Vinotha S</h1>
 <h3 align="center">"ML, Cybersecurity, Ethical Hacking, and Frontend Enthusiast"</h3>
