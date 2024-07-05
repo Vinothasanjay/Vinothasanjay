@@ -1,6 +1,10 @@
 <div align="center">
-  <img height="200" src="https://i.gifer.com/JXA0.gif" alt="Professional GIF" />
+  <img height="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Professional GIF" />
 </div>
+
+<h1 align="center">Hi 👋, I'm Vinotha S</h1>
+<h3 align="center">"ML, Cybersecurity, Ethical Hacking, and Frontend Enthusiast"</h3>
+
 
 <h1 align="center">Hi 👋, I'm Vinotha S</h1>
 <h3 align="center">"ML, Cybersecurity, Ethical Hacking, and Frontend Enthusiast"</h3>
