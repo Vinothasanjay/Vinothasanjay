@@ -1,9 +1,10 @@
 <div align="center">
-  <img height="200" src="https://i.gifer.com/JXA0.gif"  />
+  <img height="200" src="https://i.gifer.com/JXA0.gif" alt="Professional GIF" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Vinotha S</h1>
 <h3 align="center">"ML, Cybersecurity, Ethical Hacking, and Frontend Enthusiast"</h3>
+
 
 - 📫 How to reach me **vinothasanjay7@gmail.com**
 
