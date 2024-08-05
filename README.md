@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vinothasanjay7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fdm7rqPI-ahBV1gI5Y5SbOBaFwQQoGYm/view?usp=sharing](https://drive.google.com/file/d/1fdm7rqPI-ahBV1gI5Y5SbOBaFwQQoGYm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fdm7rqPI-ahBV1gI5Y5SbOBaFwQQoGYm/view?usp=sharing](https://drive.google.com/file/d/1IUJFyPzKM5WZ0P_1GtWOm05iApJdM4o1/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
