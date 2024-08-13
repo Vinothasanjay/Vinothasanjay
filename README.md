@@ -14,11 +14,11 @@
   <a href="https://linkedin.com/in/vinotha-s-154510248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinotha-s-154510248" height="30" width="40" style="margin-right: 10px;" /></a>
   <a href="https://www.codechef.com/users/vinotha17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinotha17" height="30" width="40" style="margin-right: 10px;" /></a>
   <a href="https://www.hackerrank.com/vinothasanjay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinothasanjay7" height="30" width="40" style="margin-right: 10px;" /></a>
-  <a href="https://www.leetcode.com/vinotha_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
-</p>
+ <p align="left">
+<a href="https://www.leetcode.com/https://leetcode.com/u/vinotha_17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vinotha_17/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/vinothasykmw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vinothasykmw/" height="30" width="40" /></a>
 
-
-<h3 align="left">Languages and Tools:</h3>
+ </p>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;"></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 10px;"></a>
