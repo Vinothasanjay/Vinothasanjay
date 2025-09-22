@@ -2,7 +2,7 @@
   <img height="200" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x2NmJ6eG9yZWE3d3ptZjljZDc3NW1nZnRqdGt1NGJhNTB2enJ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" alt="Professional GIF" />
 </div>
 <h1 align="center">Hi 👋, I'm Vinotha S</h1>
-<h3 align="center">"Software Developer"</h3>
+<h3 align="center">"MERN stack Developer"</h3>
 
 - 📫 How to reach me **vinothasanjay7@gmail.com**
 
